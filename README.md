@@ -18,14 +18,14 @@
     <strong>FAST-NUCES, Islamabad Campus</strong>
     <br />
     <br />
-    <a href="https://github.com/sidhartsami/Centipede-Game"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/sidhartsami/CS1002-Centipede-SFML"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/sidhartsami/Centipede-Game">View Demo</a>
+    <a href="https://github.com/sidhartsami/CS1002-Centipede-SFML">View Demo</a>
     ·
-    <a href="https://github.com/sidhartsami/Centipede-Game/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/sidhartsami/CS1002-Centipede-SFML/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/sidhartsami/Centipede-Game/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/sidhartsami/CS1002-Centipede-SFML/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -134,12 +134,12 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/sidhartsami/Centipede-Game.git
+   git clone https://github.com/sidhartsami/CS1002-Centipede-SFML.git
    ```
 
 2. Navigate to the project directory
    ```sh
-   cd Centipede-Game
+   cd CS1002-Centipede-SFML
    ```
 
 3. Compile the game
@@ -261,7 +261,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 **Sidhart Sami** - [LinkedIn](https://www.linkedin.com/in/sidhart-sami/) - [@sidhartsami](https://github.com/sidhartsami)
 
-Project Link: [https://github.com/sidhartsami/Centipede-Game](https://github.com/sidhartsami/Centipede-Game)
+Project Link: [https://github.com/sidhartsami/CS1002-Centipede-SFML](https://github.com/sidhartsami/CS1002-Centipede-SFML)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -275,14 +275,14 @@ Project Link: [https://github.com/sidhartsami/Centipede-Game](https://github.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[forks-shield]: https://img.shields.io/github/forks/sidhartsami/Centipede-Game.svg?style=for-the-badge
-[forks-url]: https://github.com/sidhartsami/Centipede-Game/network/members
-[stars-shield]: https://img.shields.io/github/stars/sidhartsami/Centipede-Game.svg?style=for-the-badge
-[stars-url]: https://github.com/sidhartsami/Centipede-Game/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sidhartsami/Centipede-Game.svg?style=for-the-badge
-[issues-url]: https://github.com/sidhartsami/Centipede-Game/issues
-[license-shield]: https://img.shields.io/github/license/sidhartsami/Centipede-Game.svg?style=for-the-badge
-[license-url]: https://github.com/sidhartsami/Centipede-Game/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/sidhartsami/CS1002-Centipede-SFML.svg?style=for-the-badge
+[forks-url]: https://github.com/sidhartsami/CS1002-Centipede-SFML/network/members
+[stars-shield]: https://img.shields.io/github/stars/sidhartsami/CS1002-Centipede-SFML.svg?style=for-the-badge
+[stars-url]: https://github.com/sidhartsami/CS1002-Centipede-SFML/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sidhartsami/CS1002-Centipede-SFML.svg?style=for-the-badge
+[issues-url]: https://github.com/sidhartsami/CS1002-Centipede-SFML/issues
+[license-shield]: https://img.shields.io/github/license/sidhartsami/CS1002-Centipede-SFML.svg?style=for-the-badge
+[license-url]: https://github.com/sidhartsami/CS1002-Centipede-SFML/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sidhart-sami/
 [Cpp-badge]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
